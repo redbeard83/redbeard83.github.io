@@ -4,3 +4,12 @@
 #+AVATAR: https://github.com/redbeard83.png
 #+CONTACT: mailto:me@redbeard.me
 #+FOLLOW: https://jackbaty.com/social.org
+
+* Posts
+** 2026-03-07T17:22:17-0300
+:PROPERTIES:
+:TAGS:
+:CLIENT: org-social.el
+:MOOD:
+:END:
+I think I heard about org-social last year, but never looked into it since I wasn't using Emacs anymore. Since I'm back now I thought why not? And here I am.
