@@ -1,3 +1,6 @@
-#+title: Social
-
- fp
+#+TITLE: redbeard83
+#+NICK: redbeard83
+#+DESCRIPTION: Non-programmer who traded Obsidian for Emacs and is still configuring instead of actually working. Send help.
+#+AVATAR: https://github.com/redbeard83.png
+#+CONTACT: mailto:me@redbeard.me
+#+FOLLOW: https://jackbaty.com/social.org
