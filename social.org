@@ -3,7 +3,7 @@
 #+DESCRIPTION: Non-programmer who traded Obsidian for Emacs and is still configuring instead of actually working. Send help.
 #+AVATAR: https://github.com/redbeard83.png
 #+CONTACT: mailto:me@redbeard.me
-#+FOLLOW: https://jackbaty.com/social.org
+#fp+FOLLOW: https://jackbaty.com/social.org
 #+GROUP: OrgSocial https://relay.org-social.org
 
 * Posts
@@ -14,3 +14,34 @@
 :MOOD:
 :END:
 I think I heard about org-social last year, but never looked into it since I wasn't using Emacs anymore. Since I'm back now I thought why not? And here I am.
+
+** 2026-03-11T11:42:35-0300
+:PROPERTIES:
+:CLIENT: org-social.el
+:REPLY_TO: https://somethingwonderful.eu/social.org#2026-03-09T11:53:14+0100
+:MOOD: 👏
+:END:
+
+
+** 2026-03-11T11:48:32-0300
+:PROPERTIES:
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2026-03-09T09:06:09+0100
+:MOOD: 👏
+:END:
+
+** 2026-03-17T23:02:14-0300
+:PROPERTIES:
+:CLIENT: org-social.el
+:REPLY_TO: https://thesolarprincess.github.io/social.org#2026-03-08T06:36:32-0300
+:END:
+I've been using Obsidian for years now, and last year I decided to try Emacs and really liked the "simplicity" of the UI and the keybindings. I eventually went back to Obsidian because of Bases and Datacore. This year I realized that the mouse use and UI were taking up much of my attention, and I was spending so much time just creating new Bases views without getting much work done. So I came back to Emacs and I'm using it for task management while slowly learning how to use org-roam so I can replace Bases/Datacore. I also began reading the Introduction to Elisp Programming. I'm now somewhere in the middle, tweaking Emacs but getting more done because it's far less distracting.
+
+** 2026-03-18T11:16:57-0300
+:PROPERTIES:
+:TAGS:
+:CLIENT: org-social.el
+:REPLY_TO: https://host.org-social.org/andros/social.org#2026-03-09T08:58:10+0100
+:MOOD:
+:END:
+Hey [[org-social:https://host.org-social.org/andros/social.org][andros]], thank you! So far so good — I'm even learning Elisp now. After years of hearing about Emacs being an OS, I finally get it. I still need to set up mu4e and WhatsApp though. About org-social, I love it — finally a social network the Emacs way. Plain text, decentralized, yours to hack.
