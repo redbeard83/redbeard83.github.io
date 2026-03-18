@@ -45,3 +45,11 @@ I've been using Obsidian for years now, and last year I decided to try Emacs and
 :MOOD:
 :END:
 Hey [[org-social:https://host.org-social.org/andros/social.org][andros]], thank you! So far so good — I'm even learning Elisp now. After years of hearing about Emacs being an OS, I finally get it. I still need to set up mu4e and WhatsApp though. About org-social, I love it — finally a social network the Emacs way. Plain text, decentralized, yours to hack.
+
+** 2026-03-18T19:27:35-0300
+:PROPERTIES:
+:TAGS:
+:CLIENT: org-social.el
+:MOOD:
+:END:
+Why does Emacs feel so good to use? Why is it so fluid? Why do I have this urge to learn programming now? Why do I want my whole life in it? What kinda voodoo is this?
